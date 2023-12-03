@@ -1,5 +1,4 @@
 # Build and Deploy a Full Stack MERN Next.js 13 Threads App | React, Next JS, TypeScript, MongoDB
-![Threads](https://i.ibb.co/2dSC0TQ/Thumbnail-1.png)
 
 ### [🌟 Become a top 1% Next.js 13 developer in only one course](https://jsmastery.pro/next13)
 ### [🚀 Land your dream programming job in 6 months](https://jsmastery.pro/masterclass)
